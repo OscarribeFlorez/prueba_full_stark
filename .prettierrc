@@ -1,0 +1,8 @@
+
+{  
+     "_comment": "este comando me permite formatiar el codigo de manera automatica parandefinir el tipo de formato a ser realizado entodo el documetno  ",
+     "singleQuote": true,
+     "semi": true,
+     "trailingComma": "all",
+     "tabWidth": 2 
+}
